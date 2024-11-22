@@ -1,0 +1,6 @@
+1732258380s 1 https://dandiarchive.s3.amazonaws.com/zarr/18e75d22-f527-4051-a4c8-c7e0f1e7dad1/intervals/epochs/id/.zarray?versionId=1bFvqs8Hy6ez_spzcaCAY0ocqFymdRt7
+1732258380s 1 https://api.dandiarchive.org/api/zarr/18e75d22-f527-4051-a4c8-c7e0f1e7dad1/files?prefix=intervals%2Fepochs%2Fid%2F.zarray&download=true
+1732258380s 1 https://dandiarchive.s3.amazonaws.com/zarr/18e75d22-f527-4051-a4c8-c7e0f1e7dad1/intervals/epochs/tags_index/.zarray?versionId=_gbi6fDzD8sE9uM3gBh6D5xV3c270NWk
+1732258380s 1 https://api.dandiarchive.org/api/zarr/18e75d22-f527-4051-a4c8-c7e0f1e7dad1/files?prefix=intervals%2Fepochs%2Ftags_index%2F.zarray&download=true
+1732258380s 1 https://dandiarchive.s3.amazonaws.com/zarr/18e75d22-f527-4051-a4c8-c7e0f1e7dad1/intervals/epochs/timeseries_index/.zarray?versionId=zEGXPUpzWNpy0RZ2D2RtPYrxA.AzcAvR
+1732258380s 1 https://api.dandiarchive.org/api/zarr/18e75d22-f527-4051-a4c8-c7e0f1e7dad1/files?prefix=intervals%2Fepochs%2Ftimeseries_index%2F.zarray&download=true
